@@ -10,7 +10,7 @@
 body {padding:20px; background-color: white;font-family: "Verdana", sans-serif; font-size: 12;color: grey;margin: 0px; }
   .gridcontainer {
     display: grid;
-    grid-template-columns: 180px 3fr;
+    grid-template-columns: 200px 3fr;
     grid-template-rows: 1fr 1fr;
     grid-template-areas: "header maincontent" "header maincontent" ;
     background-color: #FFFFFF;
